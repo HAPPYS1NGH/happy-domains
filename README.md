@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+# Domain Naming Service Project
+This project let us mint our domains on Blockchain network .
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+The user can mint the NFTs for the domain with .happy domain on Mumbai Network (Testnet for Polygon) .
